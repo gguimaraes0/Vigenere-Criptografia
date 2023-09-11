@@ -11,3 +11,5 @@ Gustavo Guimarães - 081180013
 Danilo Alves - 081190036
 
 Foi realizada a configuração de uma função para criptografar a mensagem enviada pelo Client e uma função no Server para decriptografar a mensagem recebida. No vídeo podemos ver no Hireshark a mensagem trafegando na rede com Vigenere.
+
+https://youtu.be/T-QbiXQAjOY
